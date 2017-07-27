@@ -1,9 +1,9 @@
 {
   "name": "angular-deezer-api",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/jeremydelacasa/angular-deezer-api"
   },
   "author": {
     "name": "Jeremy De la casa",
@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/jeremydelacasa/angular-deezer-api/issues"
   },
   "module": "angular-deezer-api.js",
   "typings": "angular-deezer-api.d.ts",

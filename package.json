@@ -1,6 +1,6 @@
 {
   "name": "angular-deezer-api",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeremydelacasa/angular-deezer-api.git"
+    "url": "https://github.com/jeremydelacasa/angular-deezer-api"
   },
   "author": {
     "name": "Jeremy De la casa",
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/jeremydelacasa/angular-deezer-api/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",
