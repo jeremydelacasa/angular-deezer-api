@@ -8,15 +8,9 @@ To install this library, run:
 $ npm install angular-deezer-api --save
 ```
 
-## Consuming your library
+## Use this library
 
-Once you have published your library to npm, you can import your library in any Angular application by running:
-
-```bash
-$ npm install angular-deezer-api
-```
-
-and then from your Angular `AppModule`:
+Once you have downloaded this library you can use on your angular module.
 
 ```typescript
 import { BrowserModule } from '@angular/platform-browser';
